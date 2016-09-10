@@ -1,4 +1,4 @@
-# TM1637 dh11 arduino Meda2560
+# TM1637 dh11 arduino Mega2560
 
 Description
 -----------
